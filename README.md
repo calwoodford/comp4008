@@ -1,7 +1,7 @@
 # comp4008-define-a-group
 # This is the group project of Xiaoan Wang, Wenjie Liu, Xin Zhang, Junqian Li and Callum Woodford
 
-There are a series of levels in the game with various puzzles and challenges and a relaxing soundtrack.
+There are a series of levels in the game with various puzzles and challenges and a relaxing soundtrack. The current iteration of the game unfortunately has a substantial chunk missing due to hard drive failure. Lesson learned. 
 
 An example of one of the sprites in the game, the main character. 
 
